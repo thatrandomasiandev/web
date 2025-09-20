@@ -47,7 +47,7 @@ Professional web development services tailored to meet your business needs. From
 - Mobile-responsive design
 - Basic testing across major browsers
 - Documentation for maintenance
-- Post-launch support (first 30 days)
+- Post-launch support (first 30 days free, support outside this window will be charged $5/min) 
 
 ### Project Workflow:
 1. **Discovery Phase** - Understanding your requirements
@@ -76,6 +76,13 @@ Professional web development services tailored to meet your business needs. From
 - Hourly work billed weekly
 - Payment accepted via [Apple Pay, Wire Transfer, Check]
 
+---
+
+## Time Complexity
+
+-$24/hr plan est. duration is 24hrs.
+-$48/hr plan est. duration is 100hrs.
+-$50/hr plan est. duration is 120hrs.
 ---
 
 ## Contact Information
